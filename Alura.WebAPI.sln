@@ -19,9 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.WebAPI.DAL.Livros", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.WebAPI.DAL.Usuarios", "Alura.WebAPI.DAL.Usuarios\Alura.WebAPI.DAL.Usuarios.csproj", "{ED01027C-93E5-495F-8C24-0289E72DC8F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.WebApi.AuthProvider", "Alura.WebApi.AuthProvider\Alura.WebApi.AuthProvider.csproj", "{A2F5FB71-5C14-4DA7-A50A-EC53D38DAEC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.WebApi.AuthProvider", "Alura.WebApi.AuthProvider\Alura.WebApi.AuthProvider.csproj", "{A2F5FB71-5C14-4DA7-A50A-EC53D38DAEC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.WebAPI.Api", "Alura.WebAPI.Api\Alura.WebAPI.Api.csproj", "{8C760A3C-07AE-4263-BAA0-B9870ED9C7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.WebAPI.Api", "Alura.WebAPI.Api\Alura.WebAPI.Api.csproj", "{8C760A3C-07AE-4263-BAA0-B9870ED9C7B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apoio", "Apoio", "{B32D79F3-C688-46EC-8D3A-6EE8EB11DDAB}"
+	ProjectSection(SolutionItems) = preProject
+		Apoio.txt = Apoio.txt
+		Roteiro_Curso.txt = Roteiro_Curso.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
